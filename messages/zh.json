@@ -1,0 +1,104 @@
+{
+  "Nav": {
+    "products": "产品",
+    "about": "关于我们",
+    "blog": "博客",
+    "contact": "联系"
+  },
+  "Hero": {
+    "title": "连山床品",
+    "subtitle": "为您的家庭带来柔软安稳的睡眠",
+    "cta": "查看产品"
+  },
+  "Categories": {
+    "title": "热门分类",
+    "description": "挑选最适合的寝具产品。",
+    "items": {
+      "Chăn": "被子",
+      "Ga": "床单",
+      "Gối": "枕头",
+      "Đệm": "床垫",
+      "Chiếu": "席子",
+      "Võng": "吊床"
+    }
+  },
+  "FeaturedProducts": {
+    "title": "精选产品",
+    "description": "天然材质，现代简约的舒适体验。"
+  },
+  "LatestBlog": {
+    "title": "最新博客",
+    "description": "分享睡眠保养与卧室布署的灵感。"
+  },
+  "Footer": {
+    "slogan": "连山——把自然带进每一个睡眠。",
+    "store": "连山门店",
+    "address": "胡志明市第七郡蓮花路123号",
+    "hours": "营业时间：每天 09:00 - 21:00",
+    "quickLinks": "快捷链接",
+    "policies": "政策与支持",
+    "links": {
+      "about": "关于我们",
+      "contact": "联系我们",
+      "blog": "博客"
+    },
+    "policyLinks": {
+      "warranty": "保修政策",
+      "exchange": "退换政策",
+      "privacy": "隐私政策"
+    },
+    "social": "社交媒体",
+    "copyright": "© 2025 连山"
+  },
+  "About": {
+    "title": "关于连山",
+    "missionTitle": "我们的使命",
+    "mission": "打造安全舒适的床品，为每个家庭成员带来源溪的睡眠体验。",
+    "storyTitle": "品牌故事",
+    "story": "连山源于对美好卧室生活的追求。我们精选环保材质与现代设计，让每件产品都兼具老用与美感。",
+    "valuesTitle": "核心价值",
+    "values": [
+      "友善环境的原材料",
+      "合适越南气候的设计",
+      "专业贤自的服务"
+    ]
+  },
+  "Contact": {
+    "title": "联系连山",
+    "intro": "欢迎联系我们，让我们为您推荐合适的产品。",
+    "name": "姓名",
+    "phone": "电话",
+    "note": "备注",
+    "send": "发送需求",
+    "success": "感谢您的联系，我们将尽快回复。",
+    "error": "发送失败，请稍后重试。"
+  },
+  "Products": {
+    "title": "产品系列",
+    "description": "探索温暖、现代、亲近自然的床品设计。",
+    "filterAll": "所有分类",
+    "notePrefix": "关注产品",
+    "specs": "技术参数",
+    "materials": "材质",
+    "warranty": "保修",
+    "dimensions": "尺寸",
+    "price": "价格请联系",
+    "request": "索取报价"
+  },
+  "Blog": {
+    "title": "新闻与灵感",
+    "description": "了解卧室美学与高品质睡眠的最新趋势。"
+  },
+  "Form": {
+    "namePlaceholder": "请输入姓名",
+    "phonePlaceholder": "请输入联系电话",
+    "notePlaceholder": "备注产品信息或方便联系的时间..."
+  },
+  "Common": {
+    "loading": "加载中...",
+    "backToProducts": "返回产品",
+    "backToBlog": "返回博客",
+    "readMore": "阅读更多",
+    "viewProduct": "查看产品"
+  }
+}

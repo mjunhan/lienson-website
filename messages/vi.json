@@ -1,0 +1,104 @@
+{
+  "Nav": {
+    "products": "Sản phẩm",
+    "about": "Giới thiệu",
+    "blog": "Blog",
+    "contact": "Liên hệ"
+  },
+  "Hero": {
+    "title": "Chăn ga gối đệm Liên Sơn",
+    "subtitle": "Mang giấc ngủ êm ái đến gia đình bạn",
+    "cta": "Xem sản phẩm"
+  },
+  "Categories": {
+    "title": "Danh mục nổi bật",
+    "description": "Chọn lựa sản phẩm phù hợp với nhu cầu của gia đình bạn.",
+    "items": {
+      "Chăn": "Chăn",
+      "Ga": "Ga",
+      "Gối": "Gối",
+      "Đệm": "Đệm",
+      "Chiếu": "Chiếu",
+      "Võng": "Võng"
+    }
+  },
+  "FeaturedProducts": {
+    "title": "Sản phẩm nổi bật",
+    "description": "Chất liệu thiên nhiên, thiết kế hiện đại và tinh tế."
+  },
+  "LatestBlog": {
+    "title": "Blog mới nhất",
+    "description": "Chia sẻ bí quyết chăm sóc giấc ngủ và trang trí phòng ngủ."
+  },
+  "Footer": {
+    "slogan": "Liên Sơn - Mang thiên nhiên vào từng giấc ngủ.",
+    "store": "Cửa hàng Liên Sơn",
+    "address": "123 Đường Hoa Sen, Quận 7, TP.HCM",
+    "hours": "Mở cửa: 09:00 - 21:00 hằng ngày",
+    "quickLinks": "Liên kết nhanh",
+    "policies": "Chính sách & hỗ trợ",
+    "links": {
+      "about": "Giới thiệu",
+      "contact": "Liên hệ",
+      "blog": "Blog"
+    },
+    "policyLinks": {
+      "warranty": "Chính sách bảo hành",
+      "exchange": "Chính sách đổi trả",
+      "privacy": "Chính sách bảo mật"
+    },
+    "social": "Kết nối",
+    "copyright": "© 2025 Liên Sơn"
+  },
+  "About": {
+    "title": "Về Liên Sơn",
+    "missionTitle": "Sứ mệnh của chúng tôi",
+    "mission": "Tạo nên những bộ chăn ga gối đệm an toàn, nâng niu giấc ngủ và cảm xúc của từng thành viên trong gia đình.",
+    "storyTitle": "Câu chuyện thương hiệu",
+    "story": "Liên Sơn được tạo nên từ niềm đam mê mang lại một không gian nghỉ ngơi ấm áp, hiện đại và gần gũi thiên nhiên. Từng sản phẩm đều được chọn lựa kỹ lưỡng từ chất liệu đến thiết kế, đảm bảo sự bền bỉ và thẩm mỹ.",
+    "valuesTitle": "Giá trị cốt lõi",
+    "values": [
+      "Nguyên liệu thân thiện với môi trường",
+      "Thiết kế phù hợp với khí hậu Việt Nam",
+      "Dịch vụ tận tâm và chuyên nghiệp"
+    ]
+  },
+  "Contact": {
+    "title": "Liên hệ",
+    "intro": "Liên hệ với chúng tôi để được tư vấn sản phẩm phù hợp nhất.",
+    "name": "Họ tên",
+    "phone": "Số điện thoại",
+    "note": "Ghi chú",
+    "send": "Gửi yêu cầu",
+    "success": "Cảm ơn bạn! Chúng tôi sẽ liên hệ trong thời gian sớm nhất.",
+    "error": "Xin vui lòng thử lại. Đã có lỗi xảy ra khi gửi yêu cầu."
+  },
+  "Products": {
+    "title": "Bộ sưu tập sản phẩm",
+    "description": "Khám phá chăn ga gối đệm mang phong cách ấm áp, hiện đại, chan hòa thiên nhiên.",
+    "filterAll": "Tất cả danh mục",
+    "notePrefix": "Quan tâm sản phẩm",
+    "specs": "Thông số kỹ thuật",
+    "materials": "Chất liệu",
+    "warranty": "Bảo hành",
+    "dimensions": "Kích thước",
+    "price": "Liên hệ để biết giá",
+    "request": "Gửi yêu cầu mua"
+  },
+  "Blog": {
+    "title": "Tin tức & cảm hứng",
+    "description": "Cập nhật xu hướng trang trí phòng ngủ và bí quyết chăm sóc giấc ngủ."
+  },
+  "Form": {
+    "namePlaceholder": "Nhập họ tên của bạn",
+    "phonePlaceholder": "Nhập số điện thoại",
+    "notePlaceholder": "Thông tin sản phẩm quan tâm, thời gian liên hệ..."
+  },
+  "Common": {
+    "loading": "Đang tải...",
+    "backToProducts": "Quay lại sản phẩm",
+    "backToBlog": "Quay lại blog",
+    "readMore": "Xem chi tiết",
+    "viewProduct": "Xem sản phẩm"
+  }
+}

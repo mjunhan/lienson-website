@@ -1,0 +1,43 @@
+backend:
+  name: github
+  repo: mjunhan/lienson-website
+  branch: main
+
+media_folder: public/uploads
+public_folder: /uploads
+
+collections:
+  - name: "posts"
+    label: "Bài viết"
+    folder: "content/posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    format: "frontmatter"
+    fields:
+      - { label: "Tiêu đề", name: "title", widget: "string" }
+      - { label: "Ngày", name: "date", widget: "datetime" }
+      - { label: "Ảnh đại diện", name: "cover", widget: "image", required: false }
+      - { label: "Tóm tắt", name: "excerpt", widget: "text" }
+      - { label: "Nội dung", name: "body", widget: "markdown" }
+      - { label: "Tags", name: "tags", widget: "list", required: false }
+  - name: "products"
+    label: "Sản phẩm"
+    folder: "content/products"
+    create: true
+    slug: "{{slug}}"
+    format: "frontmatter"
+    fields:
+      - { label: "Tên", name: "name", widget: "string" }
+      - { label: "Danh mục", name: "category", widget: "select", options: ["Chăn", "Ga", "Gối", "Đệm", "Chiếu", "Võng"] }
+      - { label: "Mô tả ngắn", name: "description", widget: "text" }
+      - { label: "Thông số", name: "specs", widget: "markdown", required: false }
+      - { label: "Chất liệu", name: "materials", widget: "string", required: false }
+      - { label: "Bảo hành", name: "warranty", widget: "string", required: false }
+      - { label: "Kích thước", name: "dimensions", widget: "string", required: false }
+      - label: "Hình ảnh"
+        name: "images"
+        widget: "list"
+        field:
+          label: "Ảnh"
+          name: "image"
+          widget: "image"

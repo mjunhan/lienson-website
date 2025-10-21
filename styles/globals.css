@@ -1,0 +1,41 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    color-scheme: only light;
+  }
+
+  body {
+    @apply bg-slate-50 text-slate-900 antialiased;
+  }
+
+  a {
+    @apply focus-visible:outline focus-visible:outline-2 focus-visible:outline-sky-500 focus-visible:outline-offset-2;
+  }
+
+  ::selection {
+    @apply bg-sky-200 text-slate-900;
+  }
+}
+
+@layer utilities {
+  .heading-anchor {
+    @apply no-underline;
+  }
+
+  .heading-anchor::after {
+    content: " #";
+    @apply text-slate-300;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}
